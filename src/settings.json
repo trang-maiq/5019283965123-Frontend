@@ -1,0 +1,68 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!",
+        "titlePart1": "Boots OK"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!"
+      }
+    },
+    {
+      "id": "NewsletterSideBySideOnCard"
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist.",
+        "title": "Dive into Tech with Yay!"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Dive into Tech with Yay!",
+  "subtitle": "Explore innovative ideas, cutting-edge developments, and engineering marvels — all with an energetic twist."
+}
